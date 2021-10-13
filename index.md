@@ -8,6 +8,6 @@ title: Home
 
 # Documentation
 
-- API
+- [API](api)
 - [No Link](nolink)
 
