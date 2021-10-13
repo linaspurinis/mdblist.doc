@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Version History
-permalink: /history/
+permalink: /versionhistory/
 ---
 
 ### 2020-08

@@ -8,6 +8,9 @@ title: Home
 
 # Documentation
 
-- [API](api)
-- [No Link](nolink)
-
+- [Version History](versionhistory)
+- [MDBList API](api)
+- [Add Trakt.tv list to Radarr](trakt_to_radarr)
+- [Add MDBList.com list to Radarr](nolink)
+- [External Lists](nolink)
+- [Plex Scrobbler](nolink)
