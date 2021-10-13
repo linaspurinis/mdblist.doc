@@ -12,5 +12,5 @@ title: Home
 - [MDBList API](api)
 - [Add Trakt.tv list to Radarr](trakt_to_radarr)
 - [Add MDBList.com list to Radarr](mdblist_to_radarr)
-- [External Lists](nolink)
-- [Plex Scrobbler](nolink)
+- [External Lists](search)
+- [Plex Scrobbler](search)

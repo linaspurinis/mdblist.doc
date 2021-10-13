@@ -4,7 +4,7 @@ title: MDBList API
 permalink: /api/
 ---
 
-# API service allows you to access information about ratings, votes, streaming services and more
+API service allows you to access information about ratings, votes, streaming services and more
 
 ### Obtaining API Key
 
