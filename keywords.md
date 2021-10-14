@@ -10,8 +10,8 @@ In additional to tmdb and imdb keywords, mdblist adds some specific keywords lis
 
 - `has-trailer` - Added if Youtube Trailer link is avalable
 - `bollywood` - Added if language is '**Hindi**' and the country is '**India**'
-- `imdb-tv-movie` - Added if '**video game**' is present in imdb title
-- `imdb-video-game` - Added if '**tv movie**' is present in imdb title
+- `imdb-tv-movie` - Added if '**tv movie **' is present in imdb title
+- `imdb-video-game` - Added if '**video game**' is present in imdb title
 - `imdb-short` - Added if '**short**' is present in imdb title
 - `imdb-tv-special` - Added if '**tv special**' is present in imdb title
 - `imdb-video` - Added if '**video**' is present in imdb title
