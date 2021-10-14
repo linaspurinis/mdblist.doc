@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About MDBList
+title: About
 permalink: /about/
 ---
 
-mdblist.com: media lists Automator for radarr and trakt.tv
+### mdblist.com: media lists Automator for radarr and trakt.tv
 
 If you want the best lists manager for trakt, mdblist.com got you covered. 
 

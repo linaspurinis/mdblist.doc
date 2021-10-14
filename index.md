@@ -16,4 +16,4 @@ title: Home
 - [MDBList API](api)
 - [Add Trakt.tv list to Radarr](trakt_to_radarr)
 - [Add MDBList.com list to Radarr](mdblist_to_radarr)
-- [Keywords explained](keywords)
+- [Keywords](keywords)
