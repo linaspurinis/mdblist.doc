@@ -15,7 +15,7 @@ In additional to tmdb and imdb keywords, mdblist adds some specific keywords lis
 - `imdb-short` - Added if '(short' is present in imdb title
 - `imdb-tv-special` - Added if '(tv special' is present in imdb title
 - `imdb-video` - Added if '(video' is present in imdb title
-- `hallmark` - Added if any of distributors has sting 'Hallmark' in title
+- `hallmark` - Added if any of distributors has string 'Hallmark' in title
 - `certified-fresh`, `rotten`, `fresh` - Added from rottentomatoes.com rating
 - `metacritic-must-see` - Added from metacritic.com rating
 - `belongs-to-collection` - Added if movie belongs to a collection
