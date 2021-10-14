@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About MDBList
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+mdblist.com: media lists Automator for radarr and trakt.tv
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you want the best lists manager for trakt, mdblist.com got you covered. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+With data gathered through tmdb, trakt, and imdb with ratings from imdb, trakt, tmdb, letterboxd, metacritics, tomatoes, myanimelist and rogerebert, you can create the best damn auto-updating list for your media setup :)
 
+mdblist.com has full trakt.tv integration, it will create and update lists and sync your library progress, ratings and watchlist. You can use it to filter your lists, rate, or add to your watchlist without leaving mdblist.com site.
 
-[jekyll-organization]: https://github.com/jekyll
+mdblist.com provides prepopulated lists like 'most pirated movies', trakt trending, popular, anticipated, imdb most popular movies, and much much more. Alongside, your can import external lists from trakt, imdb, rottentomatos, bestsimilar, filter them, join and create your list based on any combination.
+
+Also, you can filter movies currently in theaters, streaming on netflix, by cast, keywords, ... or you can exclude them...
+
+In your radarr setup, you can use trakt.tv lists managed by mdblist.com or you can add lists directly from mdblist.com by copying list URL and adding list via the ‘Custom Lists’ option.
+
+[mdblist.com](https://mdblist.com)
