@@ -5,6 +5,7 @@ permalink: /versionhistory/
 ---
 
 ### 2020-10
+- 16 - Top Rated Movies - 250 list from https://www.imdb.com/chart/top/ added to Popular Lists for Movies
 - 15 - Sorting of Trakt.tv lists with less than 4000 items added (larger lists takes too much time to sort)
 - 15 - Fomantic-UI updated from version 2.8.6 to version 2.8.8
 - 15 - RSS feed image changed from poster to backdrop, added links to score providers and trailer.
