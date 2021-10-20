@@ -23,9 +23,8 @@ email: linas@mdblist.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Documentation and Version History Portal for mdblist.com:
   Create your own dynamic Trakt.tv list using multiple ratings and keywords
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mdblist
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://docs.mdblist.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
@@ -39,6 +38,7 @@ header_pages:
   - search.md
 
 google_analytics: UA-210519202-1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
