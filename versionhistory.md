@@ -5,11 +5,13 @@ permalink: /versionhistory/
 ---
 
 ### 2020-10
+- 21 - `fixed` Marking as *watched* didn't work for items without correct imdbid.
+- 19 - `fixed` Trakt library *watched* status incorrectly filtered items with any trakt library status.
 - 16 - "Top Rated Movies - 250" list from https://www.imdb.com/chart/top/ added to "Popular Lists"
 - 15 - Trakt.tv lists sorting is now back, but only for lists with less than 4000 items
 - 15 - Fomantic-UI updated from version 2.8.6 to version 2.8.8
 - 15 - RSS Feeds image changed from poster to backdrop, added links to score providers and trailer
-- 14 - `has-trailer` keyword added
+- 14 - Keyword added - *has-trailer*
 - 07 - RSS Feeds for IFTTT. Lists now support RSS URLs for use with IFTTT or RSS readers. RSS will list the latest 200 items added to your list and update on every list refresh
 - 07 - 'England' renamed to 'United Kingdom' according to iso_3166_1 country code
 
