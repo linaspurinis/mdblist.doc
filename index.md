@@ -17,4 +17,5 @@ title: Home
 - [Add Trakt.tv list to Radarr](trakt_to_radarr)
 - [Add MDBList.com list to Radarr](mdblist_to_radarr)
 - [Keywords](keywords)
-
+- [Popular Lists](popular_lists)
+- [External Lists](external_lists)
