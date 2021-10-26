@@ -13,6 +13,7 @@ Use [Match All] to only include items that match all the selected keywords.
 
 In additional to tmdb and imdb keywords, mdblist adds some specific keywords listed below:
 
+- `dolby-vision` - Added for movies with Dolby Vision
 - `has-trailer` - Added if Youtube Trailer link is available
 - `bollywood` - Added if language is 'Hindi' and the country is 'India'
 - `imdb-tv-movie` - Added if 'video game' is present in imdb title

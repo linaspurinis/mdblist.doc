@@ -5,8 +5,10 @@ permalink: /versionhistory/
 ---
 
 ### 2020-10
-- 21 - `fixed` Marking as *watched* didn't work for items without correct imdbid.
-- 19 - `fixed` Trakt library *watched* status incorrectly filtered items with any trakt library status.
+- 26 - [Original Language] option has been added for Language dropdown to allow filtering by Original Movie Language (by default, all spoken languages are filtered).
+- 25 - **dolby-vision** keyword has been added to filter movies with Dolby Vision. [#keywords](/keywords)
+- 21 - `fix` Marking as *watched* didn't work for items without correct imdbid.
+- 19 - `fix` Trakt library *watched* status incorrectly filtered items with any trakt library status.
 - 16 - "Top Rated Movies - 250" list from https://www.imdb.com/chart/top/ added to "Popular Lists"
 - 15 - Trakt.tv lists sorting is now back, but only for lists with less than 4000 items
 - 15 - Fomantic-UI updated from version 2.8.6 to version 2.8.8
