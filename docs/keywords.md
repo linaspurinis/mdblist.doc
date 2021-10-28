@@ -25,6 +25,7 @@ In additional to tmdb and imdb keywords, mdblist adds some specific keywords lis
 - `imdb-video` - Added if 'video' is present in imdb title
 - `hallmark` - Added if any of distributors has string 'Hallmark' in title
 - `certified-fresh`, `rotten`, `fresh` - Added from rottentomatoes.com rating
+- `one-actor`, `two-actors`, `three-actors` - Added when movie cast size is one, two or three actors
 - `metacritic-must-see` - Added from metacritic.com rating
 - `belongs-to-collection` - Added if movie belongs to a collection
 - `4k-blue-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
