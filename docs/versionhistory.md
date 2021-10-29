@@ -7,6 +7,8 @@ nav_order: 1
 # Version History
 
 ### 2020-10
+- 29 - Telegram Notification can be turned ON or OFF on a list basis. Previously you could turn notification ON or OFF for all lists only. [#supporter](supporter)
+- 28 - Added keywords `one-actor`, `two-actors`, `three-actors` for Movies where cast size is one, two or three actors.
 - 26 - [Original Language] option has been added for Language dropdown to allow filtering by Original Movie Language (by default, all spoken languages are filtered).
 - 25 - **dolby-vision** keyword has been added to filter movies with Dolby Vision. [#keywords](keywords)
 - 21 - `fix` Marking as *watched* didn't work for items without correct imdbid.
