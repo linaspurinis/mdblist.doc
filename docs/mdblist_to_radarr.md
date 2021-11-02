@@ -23,3 +23,6 @@ Fill in the parameters.
 ![My helpful screenshot](/assets/images/radarr_mdblist_list.jpg)
 
 Click Test and Save.
+
+Using mdblist lists directly with Radarr, marks owners list active and prevents it’s (free) account for being expired.
+{: .fs-4 .ls-1 .code-example }

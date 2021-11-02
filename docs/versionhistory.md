@@ -6,6 +6,15 @@ nav_order: 1
 
 # Version History
 
+### 2020-11
+{: .d-inline-block }
+
+Comming soon
+{: .label .label-yellow }
+
+- Using mdblist lists directly with Radarr, marks owners list active and prevents it's (free) account for being expired. [How to use mdblist.com lists directly with radarr](mdblist_to_radarr).
+- Budget and Revenue filters added for Movies
+
 ### 2020-10
 - 29 - Telegram Notification can be turned ON or OFF on a list basis. Previously you could turn notification ON or OFF for all lists only. [#supporter](supporter)
 - 28 - Added keywords `one-actor`, `two-actors`, `three-actors` for Movies where cast size is one, two or three actors.
