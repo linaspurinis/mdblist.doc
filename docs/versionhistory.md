@@ -7,6 +7,8 @@ nav_order: 1
 # Version History
 
 ### 2020-11
+- 06 - `dolby-vision` data source is now https://www.blu-ray.com
+- 06 - `dolby-atmos` data added from imdb.com "Technical Specifications" section
 - 03 - Added option to randomly sort list on Trakt.tv.
 - 03 - Using mdblist lists directly with Radarr, marks owners list active and prevents it's (free) account for being expired. [How to use mdblist.com lists directly with radarr](mdblist_to_radarr).
 - 03 - Budget and Revenue filters added for Movies

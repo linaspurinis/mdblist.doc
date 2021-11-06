@@ -15,7 +15,9 @@ Use [Match All] to only include items that match all the selected keywords.
 
 In additional to tmdb and imdb keywords, mdblist adds some specific keywords listed below:
 
-- `dolby-vision` - Added for movies with Dolby Vision
+- `4k-blue-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
+- `dolby-vision` - Added for `4k-blue-ray` movies with Dolby Vision video
+- `dolby-atmos` - Added from imdb.com "Technical Specifications" section
 - `has-trailer` - Added if Youtube Trailer link is available
 - `bollywood` - Added if language is 'Hindi' and the country is 'India'
 - `imdb-tv-movie` - Added if 'video game' is present in imdb title
@@ -28,5 +30,4 @@ In additional to tmdb and imdb keywords, mdblist adds some specific keywords lis
 - `one-actor`, `two-actors`, `three-actors` - Added when movie cast size is one, two or three actors
 - `metacritic-must-see` - Added from metacritic.com rating
 - `belongs-to-collection` - Added if movie belongs to a collection
-- `4k-blue-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
 
