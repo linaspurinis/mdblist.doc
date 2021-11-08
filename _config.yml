@@ -37,8 +37,10 @@ theme: just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  "mdblist.com":
-    - "https://mdblist.com"
+  "Reddit":
+    - "https://www.reddit.com/r/mdblist/"
+  "Discord":
+    - "https://discord.gg/bDWQb3mGkr"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
