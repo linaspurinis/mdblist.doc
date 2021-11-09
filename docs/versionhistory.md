@@ -26,7 +26,7 @@ nav_order: 1
 - 15 - Fomantic-UI updated from version 2.8.6 to version 2.8.8
 - 15 - RSS Feeds image changed from poster to backdrop, added links to score providers and trailer
 - 14 - Keyword added - *has-trailer*
-- 07 - RSS Feeds for IFTTT. Lists now support RSS URLs for use with IFTTT or RSS readers. RSS will list the latest 200 items added to your list and update on every list refresh
+- 07 - RSS Feeds for IFTTT. Lists now support RSS URLs for use with IFTTT or RSS readers. RSS will list the latest ~~200~~ 400 items added to your list and update on every list refresh
 - 07 - 'England' renamed to 'United Kingdom' according to iso_3166_1 country code
 
 ### 2020-09
