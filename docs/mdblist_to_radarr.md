@@ -10,17 +10,20 @@ nav_order: 12
 In this example we want to add  
 [https://mdblist.com/lists/linaspurinis/mdblist-com-most-popular-movies](https://mdblist.com/lists/linaspurinis/mdblist-com-most-popular-movies) list to Radarr.  
 
+*To find your list URL, go to [My Lists](https://mdblist.com/mylists/) and click on Copy URL icon*
+{: .code-example }
+  
 In Radarr app, go to Settings > Lists and click on +
 
-![My helpful screenshot](/assets/images/radarr_plus.jpg)
+![](/assets/images/radarr_plus.jpg)
 
 Select Advanced List > Custom Lists
 
-![My helpful screenshot](/assets/images/radarr_custom_list_select.jpg)
+![](/assets/images/radarr_custom_list_select.jpg)
 
 Fill in the parameters.  
 
-![My helpful screenshot](/assets/images/radarr_mdblist_list.jpg)
+![](/assets/images/radarr_mdblist_list.jpg)
 
 Click Test and Save.
 
