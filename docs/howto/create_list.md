@@ -1,7 +1,8 @@
 ---
 layout: page
 title: How to create a List
-nav_order: 2
+nav_order: 1
+parent: How-To
 ---
 
 # How to Create a List?

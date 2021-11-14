@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Version History
-nav_order: 3
+nav_order: 2
 ---
 
 # Version History
 
 ### 2020-11
+- 14 - Support for external list Letterboxd watchlist added [#externallists](external_lists)
 - 07 - `dolby-vision-cp` data added from imdb.com "Technical Specifications" > "Cinematographic Process" for Movies with Dolby Vision
 - 06 - `dolby-vision` data source is now https://www.blu-ray.com
 - 06 - `dolby-atmos` data added from imdb.com "Technical Specifications" > "Sound Mix"

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Add Trakt.tv list to Radarr
-nav_order: 11
-#permalink: /trakt_to_radarr/
+title: Trakt.tv list to Radarr
+nav_order: 3
+parent: How-To
 ---
 
 # Add Trakt.tv list to Radarr

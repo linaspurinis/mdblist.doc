@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Add mdblist.com list to Radarr
-nav_order: 12
-#permalink: /mdblist_to_radarr/
+title: mdblist.com list to Radarr
+nav_order: 2
+parent: How-To
 ---
 
 # Add mdblist.com list to Radarr
