@@ -11,9 +11,13 @@ nav_order: 4
 Start typing in the keyword dropdown to search for a keyword.  
 Use [Match All] to only include items that match all the selected keywords.
 
+## Keyword sources
+
+Keywords are added from TMDb, Trakt and IMDb.
+
 ## Keywords added by mdblist.com
 
-In additional to tmdb and imdb keywords, mdblist adds some specific keywords listed below:
+In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywords listed below:
 
 - `4k-blue-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
 - `dolby-vision` - Added for `4k-blue-ray` movies with Dolby Vision

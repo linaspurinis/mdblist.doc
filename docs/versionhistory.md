@@ -7,7 +7,9 @@ nav_order: 2
 # Version History
 
 ### 2020-11
-- 15 - On the Movie/Show page, the green tag icon will display Lists this movie/show belongs to.
+- 21 - Keywords pool has expanded to include additional keywords from IMDb https://www.imdb.com/title/{imdbid}/keywords.
+- 21 - The tag icon <img src="/assets/images/icon_tag.png" alt="drawing" width="16"/> has been added to the list view. You no longer need to go into Movie/Show page to see if the item belong to a list.
+- 15 - On the Movie/Show page, the yellow tag icon <img src="/assets/images/icon_tag.png" alt="drawing" width="16"/> will display Lists this movie/show belongs to.
 - 14 - Support for external list Letterboxd *watchlist* and *watched* added [#externallists](external_lists)
 - 07 - `dolby-vision-cp` data added from imdb.com "Technical Specifications" > "Cinematographic Process" for Movies with Dolby Vision
 - 06 - `dolby-vision` data source is now https://www.blu-ray.com
