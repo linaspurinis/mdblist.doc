@@ -6,6 +6,10 @@ nav_order: 2
 
 # Version History
 
+### 2020-12
+- 01 - Added watch provider icon for list view (You can turn off this feature in preferences). Only first (by priority) icon is displayed. Will use your Watch provider country selected in preferences.
+- 01 - Added "Clone as Show Filter" for Movie lists and vice versa. You can save time by simply cloning your search.
+
 ### 2020-11
 - 21 - Keywords pool has expanded to include additional keywords from IMDb https://www.imdb.com/title/{imdbid}/keywords.
 - 21 - The tag icon <img src="/assets/images/icon_tag.png" alt="drawing" width="16"/> has been added to the list view. You no longer need to go into Movie/Show page to see if the item belong to a list.
