@@ -7,6 +7,10 @@ nav_order: 2
 # Version History
 
 ### 2020-12
+- 16 - Static Lists - you can create a Static List and handpick movies and tv shows. Later you can use this static list as inclusion or exclusion filter.
+- 14 - Support for nzbgeek.info RSS Feed added [#externallists](external_lists)
+- 13 - Search Form Reset ratings icon added. You can reset ratings to default values with a single click.
+- 12 - New feature - [**Import from Names**](import_from_names) is now available.
 - 01 - Added watch provider icon for list view (You can turn off this feature in preferences). Only first (by priority) icon is displayed. Will use your Watch provider country selected in preferences.
 - 01 - Added "Clone as Show Filter" for Movie lists and vice versa. You can save time by simply cloning your search.
 

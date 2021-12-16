@@ -23,6 +23,7 @@ Trakt List | https://trakt.tv/users/**user**/lists/**list-name**
 Letterboxd | https://letterboxd.com/**user**/list/**list-name**
 Letterboxd watchlist | https://letterboxd.com/**user**/watchlist
 Letterboxd watched | https://letterboxd.com/**user**/films
+Nzbgeek.info RSS Feed |  https://api.nzbgeek.info/rss?***params***
 
 *To use your own Trakt Watchlist as a filtering option, enable "Trakt Library Sync" and use "Hide Trakt Library Items" with "In Watchlist" and or "Not in Watchlist" options.*
 
