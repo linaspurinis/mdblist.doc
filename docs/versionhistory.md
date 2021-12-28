@@ -7,6 +7,7 @@ nav_order: 2
 # Version History
 
 ### 2020-12
+- 28 - [Steven Lu Popular movies](https://github.com/sjlu/popular-movies) supported as [#externallists](external_lists)
 - 16 - Static Lists - you can create a Static List and handpick movies and tv shows. Later you can use this static list as inclusion or exclusion filter.
 - 14 - Support for nzbgeek.info RSS Feed added [#externallists](external_lists)
 - 13 - Search Form Reset ratings icon added. You can reset ratings to default values with a single click.

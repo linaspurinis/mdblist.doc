@@ -24,11 +24,12 @@ Letterboxd | https://letterboxd.com/**user**/list/**list-name**
 Letterboxd watchlist | https://letterboxd.com/**user**/watchlist
 Letterboxd watched | https://letterboxd.com/**user**/films
 Nzbgeek.info RSS Feed |  https://api.nzbgeek.info/rss?***params***
+[Steven Lu Popular movies](https://github.com/sjlu/popular-movies) |  https://s3.amazonaws.com/popular-movies/***list_name***.json
 
 *To use your own Trakt Watchlist as a filtering option, enable "Trakt Library Sync" and use "Hide Trakt Library Items" with "In Watchlist" and or "Not in Watchlist" options.*
 
 Found an interesting list not listed here? Send me an [email](mailto:linas@mdblist.com).
 
-## Prepopulater Popular List
+## Prepopulated Popular List
 
 Read more about already prepopulated popular lists: [Popular Lists](popular_lists)
