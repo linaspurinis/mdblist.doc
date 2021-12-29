@@ -19,13 +19,15 @@ New list populated after | 30 min | 5 min | 5 min | 5 min | 5 min
 Lists Update every | 24h | 12h | 12h | 12h | 12h
 Update on Edit | No | Yes | Yes | Yes | Yes
 Clone and Update lists | No | No | Yes | Yes | Yes
+External Lists | 1 | 4 | 10 | 20 | 30
 Trakt Library Sync | Every week | Every 6 hours | Every 6 hours | Every 6 hours | Every 6 hours
 Inactivity period | 120 days | Unlimited | Unlimited | Unlimited | Unlimited
 Telegram notifications | No | Yes | Yes | Yes | Yes
 Plex Trakt Scrobbler | No | Yes | Yes | Yes | Yes
-External Lists | 1 | 4 | 10 | 20 | 30
 API requests per day | 100 | 10 000 | 25 000 | 100 000 | 250 000
 RSS Feeds for IFTTT | No | Yes | Yes | Yes | Yes
+Exclude items from list | No | Yes | Yes | Yes | Yes
+[Import from Names](import_from_names) | No | Yes | Yes | Yes | Yes
 
 ## Inactivity period
 Lists and Trakt Library Sync has 120 days of inactivity (days since your last login to the site). After 90 days of inactivity, a warning note will be added to the list name and description about upcoming inactivity. 120 days of inactivity Lists and Trakt Library Sync will stop auto-updating.  
