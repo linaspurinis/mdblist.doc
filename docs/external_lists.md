@@ -25,6 +25,7 @@ Letterboxd watchlist | https://letterboxd.com/**user**/watchlist
 Letterboxd watched | https://letterboxd.com/**user**/films
 Nzbgeek.info RSS Feed |  https://api.nzbgeek.info/rss?***params***
 [Steven Lu Popular movies](https://github.com/sjlu/popular-movies) |  https://s3.amazonaws.com/popular-movies/***list_name***.json
+[MUBI](https://mubi.com/lists/) |  https://mubi.com/lists/***list-name***
 
 *To use your own Trakt Watchlist as a filtering option, enable "Trakt Library Sync" and use "Hide Trakt Library Items" with "In Watchlist" and or "Not in Watchlist" options.*
 

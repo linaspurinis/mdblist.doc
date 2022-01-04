@@ -6,6 +6,9 @@ nav_order: 2
 
 # Version History
 
+### 2021-01
+- 04 - [MUBI](https://mubi.com/lists/) supported as [#externallists](external_lists)
+
 ### 2020-12
 - 29 - Exclude Item option is now available from List view. Excluded item will be removed from Trakt list on next refresh and will be hidden from Public view, Radarr or RSS. [#supporter](supporter)
 - 28 - [Steven Lu Popular movies](https://github.com/sjlu/popular-movies) supported as [#externallists](external_lists)
