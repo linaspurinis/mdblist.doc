@@ -25,8 +25,8 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `dolby-atmos` - Added from imdb.com "Technical Specifications" > "Sound Mix" section for Movies with Dolby Atmos
 - `has-trailer` - Added if Youtube Trailer link is available
 - `bollywood` - Added if language is 'Hindi' and the country is 'India'
-- `imdb-tv-movie` - Added if 'video game' is present in IMDb title
-- `imdb-video-game` - Added if 'tv movie' is present in IMDb title
+- `imdb-tv-movie` - Added if 'tv movie' is present in IMDb title
+- `imdb-video-game` - Added if 'video game' is present in IMDb title
 - `imdb-short` - Added if 'short' is present in IMDb title
 - `imdb-tv-special` - Added if 'tv special' is present in IMDb title
 - `imdb-video` - Added if 'video' is present in IMDb title
