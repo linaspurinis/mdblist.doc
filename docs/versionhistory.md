@@ -7,6 +7,10 @@ nav_order: 2
 # Version History
 
 ### 2021-01
+- 19 - [Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) now support mdblist.com lists
+- 17 - Related lists added to Movie / TV Show page
+- 17 - Added `Director search` filter
+- 08 - Added `Part of Collection` filter
 - 04 - [MUBI](https://mubi.com/lists/) supported as [#externallists](external_lists)
 
 ### 2020-12
