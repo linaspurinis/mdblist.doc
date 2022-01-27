@@ -16,7 +16,7 @@ Feature | Free | 1€ | 2€ | 3€ | 5€ VIP
 Number of lists | 4 | 10 | 30 | 40 | 60
 Max items per list | 10 000 | 30 000 | 40 000 | 50 000 |70 000
 New list populated after | 30 min | 5 min | 5 min | 5 min | 5 min
-Lists Update Every | 24h | 12h | 12h | 12h | 12h
+Lists Update Every | 24 hours | 12 hours | 12 hours | 12 hours | 12 hours
 Update on Edit | No | Yes | Yes | Yes | Yes
 Clone and Update lists | No | No | Yes | Yes | Yes
 External Lists | 1 | 4 | 10 | 20 | 30
