@@ -16,15 +16,16 @@ Feature | Free | 1€ | 2€ | 3€ | 5€ VIP
 Number of lists | 4 | 10 | 30 | 40 | 60
 Max items per list | 10 000 | 30 000 | 40 000 | 50 000 |70 000
 New list populated after | 30 min | 5 min | 5 min | 5 min | 5 min
-Lists Update every | 24h | 12h | 12h | 12h | 12h
+Lists Update Every | 24h | 12h | 12h | 12h | 12h
 Update on Edit | No | Yes | Yes | Yes | Yes
 Clone and Update lists | No | No | Yes | Yes | Yes
 External Lists | 1 | 4 | 10 | 20 | 30
-Trakt Library Sync | Every week | Every 6 hours | Every 6 hours | Every 6 hours | Every 6 hours
+External Lists Update Every | Week | 24 hours | 24 hours | 24 hours | 24 hours
+Trakt Library Sync Every | Week | 6 hours | 6 hours | 6 hours | 6 hours
 Inactivity period | 120 days | Unlimited | Unlimited | Unlimited | Unlimited
 Telegram notifications | No | Yes | Yes | Yes | Yes
 Plex Trakt Scrobbler | No | Yes | Yes | Yes | Yes
-API requests per day | 100 | 10 000 | 25 000 | 100 000 | 250 000
+API requests per day | 1 000 | 10 000 | 25 000 | 100 000 | 250 000
 RSS Feeds for IFTTT | No | Yes | Yes | Yes | Yes
 Exclude items from list | No | Yes | Yes | Yes | Yes
 [Import from Names](import_from_names) | No | Yes | Yes | Yes | Yes
