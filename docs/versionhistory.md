@@ -6,6 +6,9 @@ nav_order: 2
 
 # Version History
 
+### Discord
+- New features are posted on Discord, please join: [Join MDBList Discord](https://discord.gg/bDWQb3mGkr)
+
 ### 2021-01
 - 19 - [Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) now support mdblist.com lists
 - 17 - Related lists added to Movie / TV Show page
