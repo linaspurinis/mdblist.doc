@@ -23,14 +23,16 @@ https://mdblist.com/api/?apikey=[yourkey]&
 ## Parameters
 
 
-| Parameter       | Description               | Options           | Default Value  |
-|:----------------|:--------------------------|:------------------|:---------------|
-| i               | A valid IMDb ID           |                   |                |
-| t               | A valid Trakt ID          |                   |                |
-| tm              | A valid TMDb ID           |                   |                |
-| m               | Media type                | movie, show       | movie          |
-| s               | Title to search for       | Any string        |                |
-| y               | Year to limit title search| Valid year YYYY   |                |
+| Parameter       | Description               | Options           | Default Value    |
+|:----------------|:--------------------------|:------------------|:-----------------|
+| i               | A valid IMDb ID           |                   |                  |
+| t               | A valid Trakt ID          |                   |                  |
+| tm              | A valid TMDb ID           |                   |                  |
+| tv              | A valid TVDB ID           |                   | Defaults to show |
+| m               | Media type                | movie, show       | movie            |
+| s               | Title to search for       | Any string        |                  |
+| sc              | Limit results by score    | From 0 to 100     |                  |
+| y               | Year to limit title search| Valid year YYYY   |                  |
 
 ## Example
 

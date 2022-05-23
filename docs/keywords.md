@@ -19,8 +19,8 @@ Keywords are added from TMDb, Trakt and IMDb.
 
 In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywords listed below:
 
-- `4k-blue-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
-- `dolby-vision` - Added for `4k-blue-ray` movies with Dolby Vision
+- `4k-blu-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
+- `dolby-vision` - Added for `4k-blu-ray` movies with Dolby Vision
 - `dolby-vision-cp` - Added from imdb.com "Technical Specifications" > "Cinematographic Process" for Movies with Dolby Vision
 - `dolby-atmos` - Added from imdb.com "Technical Specifications" > "Sound Mix" section for Movies with Dolby Atmos
 - `has-trailer` - Added if Youtube Trailer link is available
