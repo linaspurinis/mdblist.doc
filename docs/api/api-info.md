@@ -1,12 +1,13 @@
 ---
-layout: page
-title: API
-#permalink: /api/
+layout: default
+title: Movies
+parent: API
+nav_order: 1
 ---
 
-# API
+# Movies API
 
-API service allows you to access information about ratings, votes, streaming services and more
+Movies API service allows you to access information about ratings, votes, streaming services and more
 
 ## Obtaining API Key
 
