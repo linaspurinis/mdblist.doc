@@ -259,11 +259,17 @@ POST https://mdblist.com/api/rating/{media_type}/{return_rating}?apikey={api_key
 media_type: ['movie','show']
 return_rating: ['trakt', 'imdb', 'tmdb', 'letterboxd', 'tomatoes', 
                 'audience', 'metacritic', 'rogerebert', 'mal']
+
+ids: List of mediatype IDs by type {provider}
+provider: ['tmdb','imdb']
+
 ```
 Payload
 ```json
-{"ids": 
-    [923, 990, 545611]
+{
+    "ids": 
+        [923, 990, 545611],
+    "provider": "tmdb"
 }
 ```
 Response
@@ -271,6 +277,7 @@ Response
 {
     "rating": {"923": 4.0, "990": 4.0, "545611": 4.5}, 
     "rating_type": "letterboxd", 
-    "mediatype": "movie"
+    "mediatype": "movie",
+    "provider": "tmdb"
 }
 ```
