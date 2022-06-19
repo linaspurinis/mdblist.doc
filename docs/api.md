@@ -259,10 +259,6 @@ POST https://mdblist.com/api/rating/{media_type}/{return_rating}?apikey={api_key
 media_type: ['movie','show']
 return_rating: ['trakt', 'imdb', 'tmdb', 'letterboxd', 'tomatoes', 
                 'audience', 'metacritic', 'rogerebert', 'mal']
-
-ids: List of mediatype IDs by type {provider}
-provider: ['tmdb','imdb']
-
 ```
 Payload
 ```json
@@ -271,6 +267,8 @@ Payload
         [923, 990, 545611],
     "provider": "tmdb"
 }
+ids: List of mediatype IDs by type {provider}
+provider: ['tmdb','imdb']
 ```
 Response
 ```json
