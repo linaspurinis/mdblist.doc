@@ -181,6 +181,8 @@ Response
         "imdb_id":"tt6751668",
         "mediatype":"movie",
         "release_year":2019,
+        "language":"en",
+        "spoken_language":"en",
     },
     {
         "id":361743,
@@ -190,6 +192,8 @@ Response
         "imdb_id":"tt1745960",
         "mediatype":"movie",
         "release_year":2022,
+        "language":"en",
+        "spoken_language":"en",
     },
 ]
 ```
