@@ -15,12 +15,15 @@ Expand "Create Trakt List" and enter your List name, description and click "Crea
 
 Go to [My Lists](https://mdblist.com/mylists/) to see your new list. Wait for it to populate
 
-![](/assets/images/create_trakt_waiting.png)
+![](/assets/images/lists.png)
 
-![](/assets/images/create_trakt_done.png)
-
-Now you can use your list in different ways:
-- Use list in [Radarr](mdblist_to_radarr)
-- Trakt.tv list
+You can use your lists with:
+- [Radarr](mdblist_to_radarr)
+- [Sonarr](https://sonarr.tv)
+- [Notifiarr](notifiarr) 
+- [PMM](https://github.com/meisnate12/Plex-Meta-Manager)
+- [TheMovieDB Helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) for Kodi
+- [Umbrella](https://github.com/umbrellaplug/umbrellaplug.github.io) for Kodi
+- [Trakt.tv](https://trakt.tv/) list
 - RSS Feed for RSS readers like [Feedly](https://feedly.com) or [Inoreader](https://www.inoreader.com/), or automation services like [IFTTT](https://ifttt.com/) or [Zapier](https://zapier.com)
 
