@@ -20,8 +20,8 @@ Go to [My Lists](https://mdblist.com/mylists/) to see your new list. Wait for it
 You can use your lists with:
 - [Radarr](mdblist_to_radarr)
 - [Sonarr](https://sonarr.tv)
-- [Notifiarr](notifiarr) 
-- [PMM](https://github.com/meisnate12/Plex-Meta-Manager)
+- [Notifiarr](/docs/third-party/notifiarr) 
+- [PMM](/docs/third-party/pmm)
 - [TheMovieDB Helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) for Kodi
 - [Umbrella](https://github.com/umbrellaplug/umbrellaplug.github.io) for Kodi
 - [Trakt.tv](https://trakt.tv/) list
