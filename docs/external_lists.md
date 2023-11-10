@@ -15,6 +15,7 @@ IMDb List | https://www.imdb.com/list/**list-name**
 IMDb Search | https://www.imdb.com/search/list-type?**search-params**
 IMDb Watchlist | https://www.imdb.com/user/**user**/watchlist
 IMDb Coming Soon | https://www.imdb.com/movies-coming-soon
+IMDb List Ratings | https://www.imdb.com/user/**user**/ratings
 RottenTomatoes editorial | https://editorial.rottentomatoes.com/guide/**list-name**
 RottenTomatoes Top | https://www.rottentomatoes.com/top/bestofrt/**list-name**
 A Good Movie to Watch List | https://agoodmovietowatch.com/**genre**\|**mood**/**list-type**
