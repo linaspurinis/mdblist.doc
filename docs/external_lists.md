@@ -24,6 +24,7 @@ Trakt List | https://trakt.tv/users/**user**/lists/**list-name**
 Letterboxd | https://letterboxd.com/**user**/list/**list-name**
 Letterboxd watchlist | https://letterboxd.com/**user**/watchlist
 Letterboxd watched | https://letterboxd.com/**user**/films
+Flixpatrol | https://flixpatrol.com/[**popular**,**demographics**,**top10**,**streaming-services**]
 Nzbgeek.info RSS Feed |  https://api.nzbgeek.info/rss?***params***
 [Steven Lu Popular movies](https://github.com/sjlu/popular-movies) |  https://s3.amazonaws.com/popular-movies/***list_name***.json
 [MUBI](https://mubi.com/lists/) |  https://mubi.com/lists/***list-name***
