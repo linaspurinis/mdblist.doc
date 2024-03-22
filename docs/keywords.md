@@ -37,3 +37,12 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `metacritic-must-see` - Added from metacritic.com rating
 - `belongs-to-collection` - Added if movie belongs to a collection
 
+### Awards keywords
+- `best-picture-winner` 
+- `oscar-winner`          
+- `emmy-award-winner`     
+- `golden-globe-winner`   
+- `oscar-nominated`       
+- `best-picture-nominated`
+- `emmy-award-nominated`  
+- `golden-globe-nominated`
