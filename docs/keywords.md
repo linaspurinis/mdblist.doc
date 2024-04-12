@@ -36,6 +36,8 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `one-actor`, `two-actors`, `three-actors` - Added when movie cast size is one, two or three actors
 - `metacritic-must-see` - Added from metacritic.com rating
 - `belongs-to-collection` - Added if movie belongs to a collection
+- `first-in-collection` - Added if a movie is the first movie in a collection
+- `collection-follow-up` - Added if a movie is not the first movie in a collection
 
 ### Awards keywords
 - `best-picture-winner` 
