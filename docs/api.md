@@ -267,7 +267,7 @@ Bulk rating request. Provide list if tmdb ids with media_type and return_rating
 POST https://mdblist.com/api/rating/{media_type}/{return_rating}?apikey={api_key}
 media_type: ['movie','show']
 return_rating: ['trakt', 'imdb', 'tmdb', 'letterboxd', 'tomatoes', 
-                'audience', 'metacritic', 'rogerebert', 'mal']
+                'audience', 'metacritic', 'rogerebert', 'mal', 'score', 'score_average']
 ```
 Payload
 ```json
