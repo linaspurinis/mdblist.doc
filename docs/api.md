@@ -21,6 +21,87 @@ Generate your API key in [MDBList](https://mdblist.com/preferences) Preferences
 
 # Endpoints
 
+## Lists JSON
+
+Every lists can be accessed as JSON, by adding /json after lists URL
+
+```yaml
+https://mdblist.com/lists/linaspurinis/top-10-pirated-movies-of-the-week-50/json
+```
+Response
+```json
+[
+    {
+        "id": 693134,
+        "rank": 1,
+        "adult": 0,
+        "title": "Dune: Part Two",
+        "tvdbid": 0,
+        "imdb_id": "tt15239678",
+        "mediatype": "movie",
+        "release_year": 2024,
+    },
+    ...
+    {
+        "id": 1011985,
+        "rank": 8,
+        "adult": 0,
+        "title": "Kung Fu Panda 4",
+        "tvdbid": 0,
+        "imdb_id": "tt21692408",
+        "mediatype": "movie",
+        "release_year": 2024,
+    }
+]
+```
+
+You can also add Genres by using append_to_response
+
+```yaml
+https://mdblist.com/lists/linaspurinis/top-10-pirated-movies-of-the-week-50/json?append_to_response=genre
+```
+Response
+```json
+[
+    {
+        "id": 693134,
+        "rank": 1,
+        "adult": 0,
+        "genre": [
+            "action",
+            "science-fiction",
+            "adventure",
+            "romance",
+            "drama",
+        ],
+        "title": "Dune: Part Two",
+        "tvdbid": 0,
+        "imdb_id": "tt15239678",
+        "mediatype": "movie",
+        "release_year": 2024,
+    },
+        ...
+    {
+        "id": 1011985,
+        "rank": 8,
+        "adult": 0,
+        "genre": [
+            "animation",
+            "action",
+            "adventure",
+            "comedy",
+            "family",
+            "fantasy",
+        ],
+        "title": "Kung Fu Panda 4",
+        "tvdbid": 0,
+        "imdb_id": "tt21692408",
+        "mediatype": "movie",
+        "release_year": 2024,
+    }
+]
+```
+
 ## Movies API
 
 Movies API service allows you to access information about ratings, votes, streaming services and more
@@ -201,6 +282,105 @@ Response
         "spoken_language":"en",
     },
 ]
+```
+
+## Add Items to Static List
+{: .d-inline-block }
+Supporter
+{: .label .label-yellow }
+
+Add one or more items to a static list. Items can be movies or shows, no more, than 10 movies and 10 shows per request.
+```yaml
+POST https://mdblist.com/api/lists/{listid}/items/add?apikey={api_key}
+```
+Payload
+```json
+{
+ "movies": [
+    {
+     "tmdb": 630,
+     "imdb": "tt0032138"
+    },
+    {
+     "tmdb": 238
+    }     
+ ],
+ "shows": [
+    {
+     "imdb": "tt0417299"
+    },
+    {
+     "tmdb": 1396
+    }
+   ]
+}
+You can provide following ID's: ['tmdb','imdb','trakt','tvdb']
+```
+Response
+```json
+{
+    "response": true,
+    "added": {
+        "movies": 0,
+        "shows": 0
+    },
+    "existing": {
+        "movies": 1,
+        "shows": 2
+    },
+    "not_found": {
+        "movies": 1,
+        "shows": 0
+    }
+}
+```
+
+
+## Remove Items from Static List
+{: .d-inline-block }
+Supporter
+{: .label .label-yellow }
+
+Remove one or more items from a static list. Items can be movies or shows, no more, than 10 movies and 10 shows per request.
+```yaml
+POST https://mdblist.com/api/lists/{listid}/items/remove?apikey={api_key}
+```
+Payload
+```json
+{
+ "movies": [
+    {
+     "tmdb": 630,
+     "imdb": "tt0032138"
+    },
+    {
+     "tmdb": 238
+    }     
+ ],
+ "shows": [
+    {
+     "imdb": "tt0417299"
+    },
+    {
+     "tmdb": 1396
+    }
+   ]
+}
+You can provide following ID's: ['tmdb','imdb','trakt','tvdb']
+```
+Response
+```json
+{
+    "response": true,
+    "deleted": {
+        "movies": 2,
+        "shows": 2
+    },
+    "not_found": {
+        "movies": 1,
+        "shows": 0
+    }
+}
 ```
 
 ## TOP lists
