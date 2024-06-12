@@ -55,7 +55,7 @@ Response
 ]
 ```
 
-You can also add Genres by using append_to_response
+You can also add Genres by using **append_to_response**
 
 ```yaml
 https://mdblist.com/lists/linaspurinis/top-10-pirated-movies-of-the-week-50/json?append_to_response=genre
@@ -100,6 +100,13 @@ Response
         "release_year": 2024,
     }
 ]
+```
+
+
+You can also limit the output returned using **limit** and **offset**
+
+```yaml
+https://mdblist.com/lists/linaspurinis/top-10-pirated-movies-of-the-week-50/json?limit=5&offset=2
 ```
 
 ## Movies API
