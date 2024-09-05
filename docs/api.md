@@ -291,6 +291,13 @@ Response
 ]
 ```
 
+You can also limit the output returned using **limit** and **offset**
+
+```yaml
+GET https://mdblist.com/api/lists/{id}/items?apikey={api_key}&limit=5&offset=2
+```
+
+
 ## Add Items to Static List
 {: .d-inline-block }
 Supporter
