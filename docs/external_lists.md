@@ -21,13 +21,14 @@ RottenTomatoes Top | https://www.rottentomatoes.com/top/bestofrt/**list-name**
 A Good Movie to Watch List | https://agoodmovietowatch.com/**genre**\|**mood**/**list-type**
 BestSimilar.com | https://bestsimilar.com/tag/**tag-name**
 Trakt List | https://trakt.tv/users/**user**/lists/**list-name**
+Trakt Collection | https://trakt.tv/users/**user**/collection
 Trakt Official List | https://trakt.tv/lists/official/**list-name** 
 Letterboxd | https://letterboxd.com/**user**/list/**list-name**
 Letterboxd watchlist | https://letterboxd.com/**user**/watchlist
 Letterboxd watched | https://letterboxd.com/**user**/films
 Flixpatrol | https://flixpatrol.com/[**popular**,**demographics**,**top10**,**streaming-services**]
 Nzbgeek.info RSS Feed |  https://api.nzbgeek.info/rss?***params***
-[Steven Lu Popular movies](https://github.com/sjlu/popular-movies) |  https://s3.amazonaws.com/popular-movies/***list_name***.json
+[Steven Lu Popular movies](https://github.com/sjlu/popular-movies) | https://popular-movies-data.stevenlu.com/***list_name***.json
 [MUBI](https://mubi.com/lists/) |  https://mubi.com/lists/***list-name***
 
 *To use your own Trakt Watchlist as a filtering option, enable "Trakt Library Sync" and use "Hide Trakt Library Items" with "In Watchlist" and or "Not in Watchlist" options.*
