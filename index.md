@@ -16,17 +16,20 @@ This is Documentation and Version History Portal for mdblist.com:
 
 ## About mdblist.com
 
-mdblist.com - best lists manager for trakt.tv
+MDBLIst - The Ultimate Dynamic List Manager
 
-With data gathered through tmdb, trakt, and imdb with ratings from imdb, trakt, tmdb, letterboxd, metacritics, tomatoes, myanimelist and rogerebert, you can create the best damn auto-updating list for your media setup :)
+mdblist.com is your go-to tool for creating dynamic, auto-updating movie and show lists tailored to your preferences. Seamlessly integrated with Stremio, it combines the power of multiple rating platforms like IMDb, TMDb, Letterboxd, Rotten Tomatoes, Metacritic, MyAnimeList, and RogerEbert. Whether you're building a watchlist, tracking ratings, or syncing your library progress, mdblist.com makes it effortless.
 
-mdblist.com has full trakt.tv integration, it will create and update lists and sync your library progress, ratings and watchlist. You can use it to filter your lists, rate, or add to your watchlist without leaving mdblist.com site.
+Key Features:
+* Powerful List Creation: Gather data from trakt, IMDb, TMDb, and more to create custom lists that automatically update with the latest movies and shows.
+* Full Trakt.tv Integration: Sync your watchlist, ratings, and progress directly with trakt.tv, all without leaving the mdblist.com interface.
+* Prepopulated Lists: Access curated lists like “Most Pirated Movies", Trakt Trending, IMDb Most Popular, and more, or import external lists from trakt, IMDb, Rotten Tomatoes, and other sources.
+* Advanced Filtering Options: Filter by streaming platforms like Netflix, current theater releases, cast, keywords, and more—or exclude specific criteria entirely.
+* Radarr and Sonarr Compatibility: Easily integrate mdblist.com lists into your Radarr or Sonarr setup using trakt.tv lists or custom list URLs.
 
-mdblist.com provides prepopulated lists like 'most pirated movies', trakt trending, popular, anticipated, imdb most popular movies, and much much more. Alongside, your can import external lists from trakt, imdb, rottentomatos, bestsimilar, filter them, join and create your list based on any combination.
+With mdblist.com, you can curate, filter, and manage your lists like never before. Whether you're a casual viewer or a media enthusiast, it’s the ultimate companion for your media setup.
 
-Also, you can filter movies currently in theaters, streaming on netflix, by cast, keywords, ... or you can exclude them...
-
-In your radarr setup, you can use trakt.tv lists managed by mdblist.com or you can add lists directly from mdblist.com by copying list URL and adding list via the ‘Custom Lists’ option.
+Discover a smarter way to organize your watchlists—try mdblist.com today! 
 
 ---
 
