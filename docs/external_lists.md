@@ -18,6 +18,7 @@ IMDb Coming Soon | https://www.imdb.com/movies-coming-soon
 IMDb List Ratings | https://www.imdb.com/user/**user**/ratings
 RottenTomatoes editorial | https://editorial.rottentomatoes.com/guide/**list-name**
 RottenTomatoes Top | https://www.rottentomatoes.com/top/bestofrt/**list-name**
+RottenTomatoes Browse | https://www.rottentomatoes.com/browse/[**tv_series_browse**, **movies_at_home**, **movies_in_theaters**, **movies_coming_soon**]/**parameters**
 A Good Movie to Watch List | https://agoodmovietowatch.com/**genre**\|**mood**/**list-type**
 BestSimilar.com | https://bestsimilar.com/tag/**tag-name**
 Trakt List | https://trakt.tv/users/**user**/lists/**list-name**
