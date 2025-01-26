@@ -6,9 +6,9 @@ has_children: true
 permalink: /docs/third-party
 ---
 
-# Third-party support
+# Third-party applications support
 
-How-to do certain tasks with mdblist.com.
+You can integrate MDBList with multiple third-party plugins and apps.
 {: .fs-6 .fw-300 }
 
 

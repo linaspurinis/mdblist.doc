@@ -4,6 +4,7 @@ title: Notifiarr
 parent: Third-party support
 nav_order: 1
 ---
+<img src="/assets/images/notifiarr_logo.png" alt="Notifiarr integration" width="100"/>
 
 # Notifiarr
 

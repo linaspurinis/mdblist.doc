@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Plex Media Manager
+title: Kometa
 parent: Third-party support
 nav_order: 2
 ---
+<img src="/assets/images/kometa.webp" alt="Kometa integration" width="400"/>
 
-# Plex Media Manager
+# Kometa
 
-Plex Meta Manager is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server. The script is designed to be run continuously and be able to update information based on sources outside your plex environment. Plex Meta Manager supports Movie/TV/Music libraries and Playlists.
+Kometa (formerly known as Plex Meta Manager) is a powerful tool designed to give you complete control over your media libraries. With Kometa, you can take your customization to the next level, with granular control over metadata, collections, overlays, and much more.
 
-## Plex Media Manager integration
+## Kometa integration
 
-
-```json
+```
 libraries:
   Movies:
     operations:
@@ -24,7 +24,7 @@ mdblist:
   ```
 - apikey: mdblist.com API key
 
-```json
+```
 collections:
   Best New Movies:
     mdblist_list:

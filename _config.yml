@@ -17,7 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Documentation
 email: linas@mdblist.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -34,6 +33,7 @@ theme: just-the-docs
 #remote_theme: pmarsceill/just-the-docs
 #plugins:
 #  - jekyll-feed
+logo: "/assets/images/mdblist.png"
 
 # Aux links for the upper right navigation
 aux_links:
@@ -43,7 +43,7 @@ aux_links:
     - "https://discord.gg/bDWQb3mGkr"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+# aux_links_new_tab: false
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
@@ -51,7 +51,10 @@ aux_links_new_tab: false
 # Supports true (default) or false
 heading_anchors: false
 
-# Exclude from processing.
+just_the_docs:
+  color_scheme: dark  # Or 'light'
+
+color_scheme: dark
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
