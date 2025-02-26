@@ -18,12 +18,10 @@ Scrobbling simply means automatically tracking what you’re watching. Instead o
 
 Go to [Preferences](https://mdblist.com/preferences/) page, generate and copy Webhook URL.
 
-
 ![](/assets/images/plex_scrobbler.png)
 
 Sign in to your Plex Media Server and go to the Webhooks settings. Click **Add Webhook**, paste in the URL, and click **Save Changes**.
-
-![](/assets/images/plex_webhook.jpg)
+![](/assets/images/plex_webhook.png)
 
 Still in your Plex Media Server settings, we need to make sure a few notification options are enabled.
 
