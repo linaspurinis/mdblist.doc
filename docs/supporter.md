@@ -164,6 +164,14 @@ As a bonus, you will get some perks listed below.
                 <td>6 hours</td>
             </tr>
             <tr>
+                <td>Continuous Trakt Watchlist Sync</td>
+                <td class="no">❌ No</td>
+                <td class="no">❌ No</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+            </tr>            
+            <tr>
                 <td>Inactivity period</td>
                 <td>120 days</td>
                 <td>Unlimited</td>
