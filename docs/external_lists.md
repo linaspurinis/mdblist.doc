@@ -23,6 +23,7 @@ A Good Movie to Watch List | https://agoodmovietowatch.com/**genre**\|**mood**/*
 BestSimilar.com | https://bestsimilar.com/tag/**tag-name**
 Trakt List | https://trakt.tv/users/**user**/lists/**list-name**
 Trakt Collection | https://trakt.tv/users/**user**/collection
+Trakt Favorites | https://trakt.tv/users/**user**/favorites
 Trakt Official List | https://trakt.tv/lists/official/**list-name** 
 Letterboxd | https://letterboxd.com/**user**/list/**list-name**
 Letterboxd watchlist | https://letterboxd.com/**user**/watchlist
