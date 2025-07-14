@@ -58,6 +58,18 @@ As a bonus, you will get some perks listed below.
             color: #007bff;
             font-weight: bold;
         }
+
+.badge {
+    display: inline-block;
+    background: #ffc107;
+    color: #212529;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 5px;
+    text-transform: uppercase;
+}        
     </style>
 </head>
 <body>
@@ -69,7 +81,7 @@ As a bonus, you will get some perks listed below.
                 <th>Feature</th>
                 <th>Free</th>
                 <th>1€</th>
-                <th>2€</th>
+                <th>2€ <span class="badge">Best Value</span></th>                
                 <th>3€</th>
                 <th>5€ VIP</th>
             </tr>
