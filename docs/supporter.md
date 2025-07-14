@@ -188,12 +188,25 @@ As a bonus, you will get some perks listed below.
                 <td class="yes">✅ Yes</td>
             </tr>
             <tr>
-                <td>Plex Trakt Scrobbler</td>
+                <td>
+                    Plex Sync:<br>
+                    • Trakt Scrobbler<br>
+                    • Ratings Sync<br>
+                    • Watchlist Sync
+                </td>
                 <td class="no">❌ No</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
+            </tr>
+            <tr>
+                <td>Plex Lists as Collections</td>
+                <td class="no">❌ No</td>
+                <td class="yes">✅ 1</td>
+                <td class="yes">✅ 2</td>
+                <td class="yes">✅ 3</td>
+                <td class="yes">✅ 4</td>
             </tr>
             <tr>
                 <td>API requests per day</td>
