@@ -112,6 +112,14 @@ As a bonus, you will get some perks listed below.
                 <td>30</td>
             </tr>
             <tr>
+                <td>AI Lists</td>
+                <td class="no">❌ No</td>
+                <td class="yes">✅ 1 List</td>
+                <td class="yes">✅ 2 List</td>
+                <td class="yes">✅ 3 List</td>
+                <td class="yes">✅ 5 List</td>
+            </tr>
+            <tr>
                 <td>Max items per list</td>
                 <td>10,000</td>
                 <td>30,000</td>
