@@ -114,10 +114,10 @@ As a bonus, you will get some perks listed below.
             <tr>
                 <td>AI Lists</td>
                 <td class="no">❌ No</td>
-                <td class="yes">✅ 1 List</td>
                 <td class="yes">✅ 2 List</td>
-                <td class="yes">✅ 3 List</td>
-                <td class="yes">✅ 5 List</td>
+                <td class="yes">✅ 4 List</td>
+                <td class="yes">✅ 6 List</td>
+                <td class="yes">✅ 8 List</td>
             </tr>
             <tr>
                 <td>Max items per list</td>
