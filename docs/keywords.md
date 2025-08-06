@@ -48,3 +48,7 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `best-picture-nominated`
 - `emmy-award-nominated`  
 - `golden-globe-nominated`
+- `festival_sundance_winner`
+- `festival_cannes_winner`
+- `festival_venice_winner`
+- `festival_toronto_winner`
