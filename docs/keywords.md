@@ -38,6 +38,10 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `belongs-to-collection` - Added if movie belongs to a collection
 - `first-in-collection` - Added if a movie is the first movie in a collection
 - `collection-follow-up` - Added if a movie is not the first movie in a collection
+- `anime-dub` - Added for dubbed anime titles
+- `certified-hot` - Added from Rotten Tomatoes custom category
+- `christmas-movie` - Added if movie is tagged as a Christmas title
+- `roger-ebert-thumbs-down` - Added based on Roger Ebert’s thumbs-down reviews
 
 ### Awards keywords
 - `best-picture-winner` 
