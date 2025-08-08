@@ -42,17 +42,24 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `certified-hot` - Added from Rotten Tomatoes custom category
 - `christmas-movie` - Added if movie is tagged as a Christmas title
 - `roger-ebert-thumbs-down` - Added based on Roger Ebert’s thumbs-down reviews
+- `bottom-100` - IMDb Botom 100
+- `bottom-250` - IMDb Botom 250
 
 ### Awards keywords
 - `best-picture-winner` 
-- `oscar-winner`          
-- `emmy-award-winner`     
-- `golden-globe-winner`   
-- `oscar-nominated`       
 - `best-picture-nominated`
+- `oscar-winner`          
+- `oscar-nominated`       
+- `oscar-best-director-winner`
+- `oscar-best-director-nominee`
+- `emmy-award-winner`     
 - `emmy-award-nominated`  
+- `golden-globe-winner`   
 - `golden-globe-nominated`
-- `festival_sundance_winner`
-- `festival_cannes_winner`
-- `festival_venice_winner`
-- `festival_toronto_winner`
+- `festival-sundance-winner`
+- `festival-cannes-winner`
+- `festival-venice-winner`
+- `festival-toronto-winner`
+- `national-film-preservation-board-winner`
+- `razzie-winner`
+- `razzie-nominee`
