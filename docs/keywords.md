@@ -60,6 +60,7 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `festival-cannes-winner`
 - `festival-venice-winner`
 - `festival-toronto-winner`
+- `festival-berlin-winner`
 - `national-film-preservation-board-winner`
 - `razzie-winner`
 - `razzie-nominee`
