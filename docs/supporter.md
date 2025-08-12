@@ -223,10 +223,10 @@ As a bonus, you will get some perks listed below.
             <tr>
                 <td>Plex Lists as Collections</td>
                 <td class="no">❌ No</td>
-                <td class="yes">✅ 1</td>
                 <td class="yes">✅ 2</td>
-                <td class="yes">✅ 3</td>
                 <td class="yes">✅ 4</td>
+                <td class="yes">✅ 6</td>
+                <td class="yes">✅ 8</td>
             </tr>
             <tr>
                 <td>API requests per day</td>
