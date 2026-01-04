@@ -12,6 +12,7 @@ You can import lists into mdblist.com for external sources. After import, they a
 ## Supported External Lists
 
 ### IMDb
+
 Type | URL
 --- | ---
 IMDb List | https://www.imdb.com/list/**list-id**
@@ -23,6 +24,7 @@ IMDb Coming Soon | https://www.imdb.com/movies-coming-soon
 IMDb Calendar | https://www.imdb.com/calendar
 
 ### Trakt
+
 Type | URL
 --- | ---
 Trakt List | https://trakt.tv/users/**user**/lists/**list-name**
@@ -31,6 +33,7 @@ Trakt Collection | https://trakt.tv/users/**user**/collection
 Trakt Favorites | https://trakt.tv/users/**user**/favorites
 
 ### Letterboxd
+
 Type | URL
 --- | ---
 Letterboxd List | https://letterboxd.com/**user**/list/**list-name**
@@ -38,6 +41,7 @@ Letterboxd Watchlist | https://letterboxd.com/**user**/watchlist
 Letterboxd Watched | https://letterboxd.com/**user**/films
 
 ### Rotten Tomatoes
+
 Type | URL
 --- | ---
 RottenTomatoes Editorial | https://editorial.rottentomatoes.com/guide/**list-name**
@@ -45,6 +49,7 @@ RottenTomatoes Top | https://www.rottentomatoes.com/top/bestofrt/**list-name**
 RottenTomatoes Browse | https://www.rottentomatoes.com/browse/[**tv_series_browse**, **movies_at_home**, **movies_in_theaters**, **movies_coming_soon**]/**parameters**
 
 ### Streaming Services
+
 Type | URL
 --- | ---
 JustWatch Provider | https://justwatch.com/**country**/provider/**provider-name**
@@ -54,6 +59,7 @@ UnoGS (Netflix) | https://unogs.com/search/?**query-params**
 Flixpatrol | https://flixpatrol.com/[**popular**, **demographics**, **top10**, **streaming-services**]/**parameters**
 
 ### Other Lists
+
 Source | URL
 --- | ---
 [A Good Movie to Watch](https://agoodmovietowatch.com) | https://agoodmovietowatch.com/**genre**\|**mood**/**list-type**
