@@ -80,10 +80,10 @@ As a bonus, you will get some perks listed below.
             <tr>
                 <th>Feature</th>
                 <th>Free</th>
-                <th>1€</th>
-                <th>2€ <span class="badge">Best Value</span></th>                
-                <th>3€</th>
-                <th>5€ VIP</th>
+                <th>Basic (1€)</th>
+                <th>Standard (2€) <span class="badge">Best Value</span></th>                
+                <th>Supporter (3€)</th>
+                <th>VIP 5€</th>
             </tr>
         </thead>
         <tbody>
