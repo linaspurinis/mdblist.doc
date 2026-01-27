@@ -69,6 +69,7 @@ Source | URL
 [NZBgeek](https://nzbgeek.info) RSS Feed | https://api.nzbgeek.info/**params**
 [omgwtfnzbs](https://omgwtfnzbs.me) RSS Feed | https://rss.omgwtfnzbs.me/**params**
 [rlsbb.cc](https://rlsbb.cc) Movies RSS | https://rlsbb.cc/category/movies/**category-name**/feed
+[Vuniper](https://vuniper.com) | https://vuniper.com/movies/[**web**, **upcoming**, **theaters**, **popular**, **bluray**, **anime**, **top100**, **trailers**]
 
 *To use your own Trakt Watchlist as a filtering option, enable "Trakt Library Sync" and use "Hide Trakt Library Items" with "In Watchlist" and or "Not in Watchlist" options.*
 *List of all Trakt Official lists [https://trakt.tv/search/lists/?types=official](https://trakt.tv/search/lists/?types=official)
