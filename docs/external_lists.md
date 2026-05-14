@@ -7,7 +7,11 @@ nav_order: 6
 
 # External Lists
 
-You can import lists into mdblist.com for external sources. After import, they are available in the Popular lists dropdown and can be used in a search.
+You can import lists into mdblist.com from external sources. After import, they are available in your External Lists section, can be selected in the Popular lists dropdown, and can be used in Search filters.
+
+External lists are different from linked lists. A linked list points to another MDBList user's list. An external list is parsed from a source outside MDBList, such as Trakt, IMDb, Letterboxd, Rotten Tomatoes, JustWatch, Plex Watchlist, or an RSS feed.
+
+External lists update automatically on the schedule available for your account. They can also be used as a source for [Feed Lists](/docs/list_types#feed-lists), which append newly discovered items during refresh.
 
 ## Supported External Lists
 

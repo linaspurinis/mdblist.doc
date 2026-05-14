@@ -7,7 +7,7 @@ parent: How-To
 
 # How to Create a List?
 
-To create a list, enter your desired search criteria and click Search. Make sure you narrowed down your list to include only items you like.
+To create a dynamic list, enter your desired search criteria and click Search. Make sure you narrowed down your list to include only items you like.
 
 Expand "Create Trakt List" and enter your List name, description and click "Create Trakt List"
 
@@ -16,6 +16,8 @@ Expand "Create Trakt List" and enter your List name, description and click "Crea
 Go to [My Lists](https://mdblist.com/mylists/) to see your new list. Wait for it to populate
 
 ![](/assets/images/lists.png)
+
+MDBList also supports AI generated lists, static lists, feed lists, linked lists, and external lists. See [List Types](/docs/list_types) for a quick explanation of what each one does.
 
 You can use your lists with:
 - [Radarr](mdblist_to_radarr)
@@ -26,4 +28,3 @@ You can use your lists with:
 - [Umbrella](https://github.com/umbrellaplug/umbrellaplug.github.io) for Kodi
 - [Trakt.tv](https://trakt.tv/) list
 - RSS Feed for RSS readers like [Feedly](https://feedly.com) or [Inoreader](https://www.inoreader.com/), or automation services like [IFTTT](https://ifttt.com/) or [Zapier](https://zapier.com)
-

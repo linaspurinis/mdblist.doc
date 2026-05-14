@@ -12,6 +12,8 @@ As a bonus, you will get some perks listed below.
 
 [Support on Patreon](https://www.patreon.com/mdblist)
 
+Not sure what each list type means? See [List Types](/docs/list_types).
+
 <html lang="en">
 <head>
     <style>
@@ -112,12 +114,20 @@ As a bonus, you will get some perks listed below.
                 <td>30</td>
             </tr>
             <tr>
+                <td>Feed Lists</td>
+                <td class="no">❌ No</td>
+                <td>4</td>
+                <td>10</td>
+                <td>20</td>
+                <td>30</td>
+            </tr>
+            <tr>
                 <td>AI Lists</td>
                 <td class="no">❌ No</td>
                 <td class="yes">✅ 2 List</td>
                 <td class="yes">✅ 4 List</td>
                 <td class="yes">✅ 6 List</td>
-                <td class="yes">✅ 8 List</td>
+                <td class="yes">✅ 10 List</td>
             </tr>
             <tr>
                 <td>Max items per list</td>
