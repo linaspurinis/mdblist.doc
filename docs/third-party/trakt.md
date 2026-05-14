@@ -12,6 +12,8 @@ MDBList has native integration with Trakt. You can sync your lists, watch status
 
 ## Watchlist and Watch Status sync
 
-Just enable Trakt Library Sync in preferenes![alt text](</assets/images/trakt-watchlist.png>)
+Enable Trakt Library Sync in Preferences.
+
+![Trakt Library Sync](</assets/images/trakt-watchlist.png>)
 
 ### For more information about Trakt, visit [Trakt.tv](https://trakt.tv).

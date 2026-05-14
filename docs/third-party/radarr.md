@@ -8,7 +8,7 @@ nav_order: 1
 
 # Radarr
 
-You can add MDBList Lists to Sonarr version 4
+You can add MDBList movie lists to Radarr.
 
 ## Radarr integration
 

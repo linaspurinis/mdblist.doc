@@ -21,7 +21,7 @@ From your list view [My Lists](https://mdblist.com/mylists/) click on RSS icon (
 ## IFTTT integration
 
 - For "If This" add RSS > New feed item
-- Paste RSS URL from previos step, click "Create Trigger"
+- Paste RSS URL from the previous step, click "Create Trigger"
 - For "Then That" add "Telegram" > "Send message"
 ![](/assets/images/rss_telegram_message.png)
 - Click “Create action” > "Continue" > "Finish".

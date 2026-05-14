@@ -23,7 +23,7 @@ You can use your lists with:
 - [Radarr](mdblist_to_radarr)
 - [Sonarr](https://sonarr.tv)
 - [Notifiarr](/docs/third-party/notifiarr) 
-- [PMM](/docs/third-party/pmm)
+- [Kometa](/docs/third-party/kometa)
 - [TheMovieDB Helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) for Kodi
 - [Umbrella](https://github.com/umbrellaplug/umbrellaplug.github.io) for Kodi
 - [Trakt.tv](https://trakt.tv/) list

@@ -8,7 +8,7 @@ nav_order: 1
 
 # Sonarr
 
-You can add MDBList Lists to Sonarr version 4
+You can add MDBList show lists to Sonarr version 4.
 
 ## Sonarr integration
 

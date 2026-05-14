@@ -12,8 +12,12 @@ MDBList has native integration with Plex. Once authenticated, you’ll be able t
 
 ## Watchlist and Ratings sync
 
-Authenticate with Plex in preferenes![Plex](</assets/images/plex_setup.png>)
+Authenticate with Plex in Preferences.
+
+![Plex](</assets/images/plex_setup.png>)
 
 ### List as Collection sync
 
-Choose to sync list to Plex collection ![Plex](</assets/images/plex_collection_sync.png>)
+Choose to sync a list to a Plex collection.
+
+![Plex](</assets/images/plex_collection_sync.png>)

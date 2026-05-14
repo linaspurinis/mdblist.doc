@@ -17,7 +17,7 @@ Keywords are added from TMDb, Trakt and IMDb.
 
 ## Keywords added by mdblist.com
 
-In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywords listed below:
+In addition to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywords listed below:
 
 - `4k-blu-ray` - Added if the movie is listed as released in 4k on https://www.blu-ray.com site
 - `dolby-vision` - Added for `4k-blu-ray` movies with Dolby Vision
@@ -42,8 +42,8 @@ In additional to TMDb, Trakt and IMDb keywords, mdblist adds some specific keywo
 - `certified-hot` - Added from Rotten Tomatoes custom category
 - `christmas-movie` - Added if movie is tagged as a Christmas title
 - `roger-ebert-thumbs-down` - Added based on Roger Ebert’s thumbs-down reviews
-- `bottom-100` - IMDb Botom 100
-- `bottom-250` - IMDb Botom 250
+- `bottom-100` - IMDb Bottom 100
+- `bottom-250` - IMDb Bottom 250
 
 ### Awards keywords
 - `best-picture-winner` 

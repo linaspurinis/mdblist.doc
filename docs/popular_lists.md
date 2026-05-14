@@ -7,10 +7,12 @@ nav_order: 5
 
 # Popular Lists
 
-Following Lists are automatically populated and periodically refreshed. You can find them in the Popular lists dropdown.
+The following lists are automatically populated and periodically refreshed. You can find them in the Popular lists dropdown.
 
-## Movies 
+## Movies
 
+List | Source or description
+--- | ---
 Most Popular Movies [top-20] | List based on vote increase in the last month
 IMDb Most Popular Movies | [https://www.imdb.com/chart/moviemeter/](https://www.imdb.com/chart/moviemeter/)
 IMDb Top Rated Movies | [https://www.imdb.com/chart/top/](https://www.imdb.com/chart/top/)
@@ -27,8 +29,10 @@ Trakt Most Collected Movies | [https://trakt.tv/movies/collected](https://trakt.
 Trakt Most Played Movies | [https://trakt.tv/movies/played](https://trakt.tv/movies/played)
 Trakt Recommended Movies for You | [https://trakt.docs.apiary.io](https://trakt.docs.apiary.io/#reference/recommendations/movies/get-movie-recommendations)
 
-## TV Shows 
+## TV Shows
 
+List | Source or description
+--- | ---
 Most Popular TV Shows [top-20] | List based on vote increase in the last month
 Disney+ Top TV Shows | [https://flixpatrol.com/top10/disney/](https://flixpatrol.com/top10/disney/)
 Netflix Top TV Shows | [https://flixpatrol.com/top10/netflix/](https://flixpatrol.com/top10/netflix/)
@@ -47,4 +51,4 @@ Trakt Recommended TV Shows for You | [https://trakt.docs.apiary.io](https://trak
 
 ## External Lists
 
-Didn't find what you were looking for? You can also import lists from different sources. [External Lists](external_lists)
+Didn't find what you were looking for? You can also import lists from different sources. [External Lists](/docs/external_lists)
