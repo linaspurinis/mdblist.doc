@@ -84,7 +84,7 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <th>Free</th>
                 <th>Basic (1€)</th>
                 <th>Standard (2€) <span class="badge">Best Value</span></th>                
-                <th>Supporter (3€)</th>
+                <th>Plus (3€)</th>
                 <th>VIP 5€</th>
             </tr>
         </thead>
