@@ -86,6 +86,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <th>Standard (2€) <span class="badge">Best Value</span></th>                
                 <th>Plus (3€)</th>
                 <th>VIP 5€</th>
+                <th>VIP 10€</th>
+                <th>VIP 15€</th>
+                <th>VIP 20€</th>
             </tr>
         </thead>
         <tbody>
@@ -96,14 +99,20 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>30</td>
                 <td>40</td>
                 <td>60</td>
+                <td>150</td>
+                <td>200</td>
+                <td>300</td>
             </tr>
             <tr>
                 <td>Static lists</td>
                 <td>4</td>
-                <td>10</td>
-                <td>30</td>
-                <td>40</td>
+                <td>20</td>
                 <td>60</td>
+                <td>80</td>
+                <td>120</td>
+                <td>300</td>
+                <td>400</td>
+                <td>600</td>
             </tr>
             <tr>
                 <td>External Lists</td>
@@ -112,6 +121,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>10</td>
                 <td>20</td>
                 <td>30</td>
+                <td>50</td>
+                <td>100</td>
+                <td>150</td>
             </tr>
             <tr>
                 <td>Feed Lists</td>
@@ -120,6 +132,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>10</td>
                 <td>20</td>
                 <td>30</td>
+                <td>50</td>
+                <td>100</td>
+                <td>150</td>
             </tr>
             <tr>
                 <td>AI Lists</td>
@@ -128,6 +143,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="yes">✅ 4 List</td>
                 <td class="yes">✅ 6 List</td>
                 <td class="yes">✅ 10 List</td>
+                <td class="yes">✅ 20 List</td>
+                <td class="yes">✅ 30 List</td>
+                <td class="yes">✅ 40 List</td>
             </tr>
             <tr>
                 <td>Max items per list</td>
@@ -136,10 +154,16 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>40,000</td>
                 <td>50,000</td>
                 <td>70,000</td>
+                <td>100,000</td>
+                <td>150,000</td>
+                <td>150,000</td>
             </tr>
             <tr>
                 <td>New list populated after</td>
                 <td>30 min</td>
+                <td>5 min</td>
+                <td>5 min</td>
+                <td>5 min</td>
                 <td>5 min</td>
                 <td>5 min</td>
                 <td>5 min</td>
@@ -152,6 +176,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>12 hours</td>
                 <td>12 hours</td>
                 <td>12 hours</td>
+                <td>12 hours</td>
+                <td>12 hours</td>
+                <td>12 hours</td>
             </tr>
             <tr>
                 <td>List Priority Update ⚡ (every 4-5h)</td>
@@ -159,11 +186,17 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="no">❌ No</td>
                 <td class="yes">✅ 1 List</td>
                 <td class="yes">✅ 2 Lists</td>
-                <td class="yes">✅ 3 Lists</td>
+                <td class="yes">✅ 4 Lists</td>
+                <td class="yes">✅ 8 Lists</td>
+                <td class="yes">✅ 12 Lists</td>
+                <td class="yes">✅ 16 Lists</td>
             </tr>
             <tr>
                 <td>Update on Edit</td>
                 <td class="no">❌ No</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
@@ -176,10 +209,16 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
             </tr>
             <tr>
                 <td>External Lists Update Every</td>
                 <td>Week</td>
+                <td>24 hours</td>
+                <td>24 hours</td>
+                <td>24 hours</td>
                 <td>24 hours</td>
                 <td>24 hours</td>
                 <td>24 hours</td>
@@ -192,11 +231,17 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>6 hours</td>
                 <td>6 hours</td>
                 <td>6 hours</td>
+                <td>6 hours</td>
+                <td>6 hours</td>
+                <td>6 hours</td>
             </tr>
             <tr>
                 <td>Continuous Trakt Watchlist Sync</td>
                 <td class="no">❌ No</td>
                 <td class="no">❌ No</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
@@ -208,10 +253,16 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>Unlimited</td>
                 <td>Unlimited</td>
                 <td>Unlimited</td>
+                <td>Unlimited</td>
+                <td>Unlimited</td>
+                <td>Unlimited</td>
             </tr>
             <tr>
                 <td>Telegram notifications</td>
                 <td class="no">❌ No</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
@@ -229,6 +280,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
             </tr>
             <tr>
                 <td>Plex Lists as Collections</td>
@@ -237,6 +291,9 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="yes">✅ 4</td>
                 <td class="yes">✅ 6</td>
                 <td class="yes">✅ 8</td>
+                <td class="yes">✅ 12</td>
+                <td class="yes">✅ 16</td>
+                <td class="yes">✅ 20</td>
             </tr>
             <tr>
                 <td>API requests per day</td>
@@ -245,10 +302,16 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>25,000</td>
                 <td>100,000</td>
                 <td>250,000</td>
+                <td>500,000</td>
+                <td>1,000,000</td>
+                <td>1,500,000</td>
             </tr>
             <tr>
                 <td>RSS Feeds for IFTTT</td>
                 <td class="no">❌ No</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
@@ -261,10 +324,16 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
             </tr>
             <tr>
                 <td><a href="import_from_names">Import from Names</a></td>
                 <td class="no">❌ No</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
+                <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
