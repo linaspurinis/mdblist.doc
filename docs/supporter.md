@@ -339,6 +339,17 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td class="yes">✅ Yes</td>
                 <td class="yes">✅ Yes</td>
             </tr>
+            <tr>
+                <td>Favorite Cast</td>
+                <td>20</td>
+                <td>35</td>
+                <td>50</td>
+                <td>75</td>
+                <td>100</td>
+                <td>200</td>
+                <td>300</td>
+                <td>500</td>
+            </tr>
         </tbody>
     </table>
 </div>
