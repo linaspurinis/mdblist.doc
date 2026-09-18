@@ -137,6 +137,28 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>150</td>
             </tr>
             <tr>
+                <td>Watchlist Sync from External Lists</td>
+                <td class="no">❌ No</td>
+                <td class="yes">✅ 1 List</td>
+                <td class="yes">✅ 2 Lists</td>
+                <td class="yes">✅ 3 Lists</td>
+                <td class="yes">✅ 5 Lists</td>
+                <td class="yes">✅ 10 Lists</td>
+                <td class="yes">✅ 15 Lists</td>
+                <td class="yes">✅ 20 Lists</td>
+            </tr>
+            <tr>
+                <td>Watchlist Sync — Max Items per List</td>
+                <td>-</td>
+                <td>500</td>
+                <td>1,000</td>
+                <td>1,500</td>
+                <td>2,500</td>
+                <td>5,000</td>
+                <td>7,500</td>
+                <td>10,000</td>
+            </tr>
+            <tr>
                 <td>AI Lists</td>
                 <td class="no">❌ No</td>
                 <td class="yes">✅ 2 List</td>
@@ -224,28 +246,6 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>24 hours</td>
                 <td>24 hours</td>
             </tr>
-            <tr>
-                <td>Trakt Library Sync Every</td>
-                <td>Week</td>
-                <td>6 hours</td>
-                <td>6 hours</td>
-                <td>6 hours</td>
-                <td>6 hours</td>
-                <td>6 hours</td>
-                <td>6 hours</td>
-                <td>6 hours</td>
-            </tr>
-            <tr>
-                <td>Continuous Trakt Watchlist Sync</td>
-                <td class="no">❌ No</td>
-                <td class="no">❌ No</td>
-                <td class="yes">✅ Yes</td>
-                <td class="yes">✅ Yes</td>
-                <td class="yes">✅ Yes</td>
-                <td class="yes">✅ Yes</td>
-                <td class="yes">✅ Yes</td>
-                <td class="yes">✅ Yes</td>
-            </tr>            
             <tr>
                 <td>Inactivity period</td>
                 <td>120 days</td>
@@ -358,7 +358,7 @@ Not sure what each list type means? See [List Types](/docs/list_types).
 
 
 ## Inactivity period
-Lists and Trakt Library Sync has 120 days of inactivity (days since your last login to the site). After 90 days of inactivity, a warning note will be added to the list name and description about upcoming inactivity. 120 days of inactivity Lists and Trakt Library Sync will stop auto-updating.  
+Lists have 120 days of inactivity (days since your last login to the site). After 90 days of inactivity, a warning note will be added to the list name and description about upcoming inactivity. After 120 days of inactivity, lists will stop auto-updating.  
 Using mdblist.com lists directly with Radarr, will mark user active and will not trigger inactivity.  
 Supporter accounts never trigger inactivity.
 
