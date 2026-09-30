@@ -115,6 +115,28 @@ Not sure what each list type means? See [List Types](/docs/list_types).
                 <td>600</td>
             </tr>
             <tr>
+                <td><a href="#shared-lists">Shared Static Lists</a></td>
+                <td>1</td>
+                <td>5</td>
+                <td>7</td>
+                <td>10</td>
+                <td>15</td>
+                <td>20</td>
+                <td>30</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Collaborators per Shared List</td>
+                <td>1</td>
+                <td>3</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+                <td>7</td>
+                <td>10</td>
+                <td>15</td>
+            </tr>
+            <tr>
                 <td>External Lists</td>
                 <td>1</td>
                 <td>4</td>
@@ -356,6 +378,11 @@ Not sure what each list type means? See [List Types](/docs/list_types).
 </body>
 </html>
 
+
+## Shared lists
+You can share a static list with people you follow and they can add and remove items on it. Everyone, including free accounts, can share 1 list with 1 collaborator; supporters can share more lists with more people (see the table above). Pending invites count toward the collaborator limit.
+
+If your support ends or you move to a lower tier, your earliest shared lists and their earliest collaborators stay active up to your new limits. Sharing on the rest is paused, not deleted: those collaborators can't see or edit the list until your limits allow it again.
 
 ## Inactivity period
 Lists have 120 days of inactivity (days since your last login to the site). After 90 days of inactivity, a warning note will be added to the list name and description about upcoming inactivity. After 120 days of inactivity, lists will stop auto-updating.  
